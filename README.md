@@ -103,12 +103,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![HTML][HTML.com]][HTML-url]
 * [![Javascript][Javascript.com]][Javascript-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,6 +156,6 @@ You can use this website to store your daily tasks altough it will only store th
 [Javascript-url]:https://javascript.com
 [HTML.com]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]:https://html.com/
-[CSS]: https://i.imgur.com/cL9mqon.png
+[CSS]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: 
 
