@@ -99,7 +99,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Languages i used to make the website:
 
 * [![HTML][HTML.com]][HTML-url]
 * [![Javascript][Javascript.com]][Javascript-url]
