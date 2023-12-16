@@ -159,7 +159,7 @@ You can use this website to store your daily tasks altough it will only store th
 [JQuery-url]: https://jquery.com 
 [JavaScript.com]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [Javascript-url]:https://javascript.com
-[html.com]:https://imgur.com/stLGcIg
+[html.com]:https://i.imgur.com/stLGcIg.png
 [HTML-url]:https://html.com/
 [CSS]: https://i.imgur.com/cL9mqon.png
 [CSS-url]: 
