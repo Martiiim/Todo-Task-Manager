@@ -117,14 +117,14 @@ You can use this website to store your daily tasks altough it will only store th
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Martiiim/Todo-Task-Manager?style=for-the-badge
 [contributors-url]: https://github.com/Martiiim/Todo-Task-Manager/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks//Martiiim/Todo-Task-Manager?style=for-the-badge
-[forks-url]: https://github.com//Martiiim/Todo-Task-Manager/network/members
-[stars-shield]: https://img.shields.io/github/stars//Martiiim/Todo-Task-Manager?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Martiiim/Todo-Task-Manager?style=for-the-badge
+[forks-url]: https://github.com/Martiiim/Todo-Task-Manager/network/members
+[stars-shield]: https://img.shields.io/github/stars/Martiiim/Todo-Task-Manager?style=for-the-badge
 [stars-url]: https://github.com//Martiiim/Todo-Task-Manager/stargazers
-[issues-shield]: https://img.shields.io/github/issues//Martiiim/Todo-Task-Manager?style=for-the-badge
-[issues-url]: https://github.com//Martiiim/Todo-Task-Manager/issues
-[license-shield]: https://img.shields.io/github/license//Martiiim/Todo-Task-Manager?style=for-the-badge
-[license-url]: https://github.com//Martiiim/Todo-Task-Manager/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/Martiiim/Todo-Task-Manager?style=for-the-badge
+[issues-url]: https://github.com/Martiiim/Todo-Task-Manager/issues
+[license-shield]: https://img.shields.io/github/license/Martiiim/Todo-Task-Manager?style=for-the-badge
+[license-url]: https://github.com/Martiiim/Todo-Task-Manager/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
