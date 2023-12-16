@@ -103,7 +103,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![HTML][HTML.com]][HTML-url]
 * [![Javascript][Javascript.com]][Javascript-url]
-* [![CSS][CSS][CSS-url]
+* [![CSS][CSS]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
