@@ -1,0 +1,44 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to right, #4CAF50, #2196F3);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.task-manager {
+  text-align: center;
+  color: #181818;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px; /* Add border-radius to make the input round */
+  margin-right: 10px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px; /* Adjusted padding to match the vertical padding of the text input */
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #888;
+}
