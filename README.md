@@ -101,8 +101,8 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* [![HTML][HTML.com]][HTML-url]
+* [![Javascript][Javascript.com]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
@@ -157,3 +157,10 @@ You can use this website to store your daily tasks altough it will only store th
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[JavaScript.com]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[Javascript-url]:https://javascript.com
+[HTML.com]:https://imgur.com/stLGcIg
+[HTML-url]:https://html.com/
+[CSS]: https://i.imgur.com/cL9mqon.png
+[CSS-url]: 
+
